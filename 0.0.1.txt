@@ -1,0 +1,28 @@
+LASTCALL: RELOADED PATCH NOTES
+UPDATE: __**(PA) 0.0.1**__
+**The Pre-Historic Update**
+__Pre-Alpha Update!__
+
+```+Added AUG
++Added Scar L
++Added Railgun (Pistol)
++Added Railgun (Sniper)
++Added a "hitmarker" of sorts, targets will now bleed upon being shot, brighter blood for the head, darker for the body (redstone wire for a headshot, redstone block for a body shot)
+
+⌖Reworked Healing Consumables!
+    ⌖All healing is now **over time**
+⌖Reworked Air Strikes
+    ⌖Explosion radius was slighly reduced (I felt you would get hit through walls too frequently)
+⌖Reworked Melee
+    ⌖Disabled the ability to spam and hit every single shot, you now need to wait for the vanilla cooldown, however to counteract this, I have enabled headshots, headshots with melee daze your target!
+⌖Reworked Headshots
+    ⌖Headshots now have a flat damage bonus! (I'm fine tuning the headshot bonus damage for EVERY GUN by hand, to make everything nice and balanced, I feel headshots are a bit too unreliable right now, so this should hopefully make them a ton more reliable and more rewarding!)
+⌖Reworked Ammo
+    ⌖Ammo is now handled by ***BULLET CALIBUR*** not by firearm class! (This change was more for balance than because I wanted to, this is to regulate how common it will be to see powerful weapons like the Railguns or the RPGs out in the world, pretty much just a balancement, and don't worry you can always trade or purchase ammo from other player's shops! {the server shop will sell lower tier bullets but not rpg ammo or the likes})
+    
+-Removed Coilgun
+-Removed Incindiary Shells from all shotguns (I felt this reduced the TTK {time to kill} severely, I may implement it back at some point, it just caused other bugs to arise when I didn't need them.)
+-Removed "firework" effects upon headshot, instead replaced with a splash of blood on the target!
+-Removed Cluster RPG (RPG-8) replaced with a consumable cluster bomb (I feel this RPG would have been overused and just flat out broken anyways, removed it, I kept some high explosive weapons for all you Pyromaniacs!)```
+
+Thank you all for your patience with this project, we hope to be launching in the next two weeks, upon launching, we will be in closed beta, @everyone on this Discord Server right now will be invited to the closed beta to help test everything out! Keep in mind you will lose all progress upon full launch, but you will be getting a few things that will be very special in that only alpha and beta testers will have them, hope to see you all there :purple_heart:
