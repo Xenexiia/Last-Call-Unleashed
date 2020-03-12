@@ -1,0 +1,54 @@
+LASTCALL: RELOADED PATCH NOTES
+UPDATE: __**(PA) 0.0.2**__
+**The Start of Something Amazing!**
+__Pre-Set-up Update!__
+
+```Additions Section!
++Added Kar98K (7.62 Sniper)
++Added Vector (.45 ACP SMG)
++Added P-90 (5.56 SMG)
++Added Olympia (12GA Shotgun)
++Added RG15 (9mm pistol)
++Added DP-28 (7.62 LMG)
++Added Flamethrower (Gasoline, Special Weapon)
++Added Thundergun (Energy Cells, Special weapon [no damage, only knockback])
++Added Ray Gun (Fusion Cells, Special Weapon [original one, with Splash damage and such])
++Added Ray Gun MK2 (Fusion Cells, Special Weapon [Three round burst raygun, no splash damage])
++Added Black Hole Weapon (Cosmic Cells, Special Weapon)
++Added China Lake (25mm Grenade, Grenade Launcher)
++Added New attachments for weapons!
+    +Added M320 (25mm Grenade, Grenade Launcher)
+    +Added Ts50 (Taser)
+    +Added UBS300 (12GA, Shotgun)
+    +Added UR250 (7.62, Single Shot Rifle)
++Added the BAN HAMMER
++Added Medic Grenade (AoE Healing Nade)```
+
+```Removed Section!
+-Removed Homemade RPG (Before I get flak for removing the HmRPG, I'll be balancing the original RPG to be less Overpowered, this one is not required any longer!)
+-Removed "angelicMosen" (I felt if we kept this and the Kar98K, it would feel like Copy-Pasta, so I got rid of the gun that not as many people really know or like, if I get enough popular demand I'll re-add the Mosen)
+-Removed the AoE aspect of Bandages,First-Aids,Energy drinks,Painkillers and Med-kits! (You cannot heal your friends with these consumable items anymore, only yourself!)
+-Removed Warmachine, replaced by China Lake (Balance)```
+
+```Reworks Section!
+⌖Reworked Grenades
+    ⌖Tacticals are now in their own category, you can now carry up to two (2) tactical grenades on your hot-bar and one lethal. This should slow down the grenades from being the most used consumable item.
+⌖Reworked some uniques from the Original Last Call PvP
+    ⌖Reworked the "ViperSniper"
+        ⌖Viper Sniper now deals only half a heart of damage, however poisons the target for two whole minutes!
+    ⌖Reworked the "SQTranquilzer"
+        ⌖The SQTranq now only slows you down by 50% it no longer immobilizes you (I felt this could be easily abused by players with better accuracy in terms of hitting a player with the SQT then switching to a higher caliber weapon for a one shot headshot, this should prevent that!)
+    ⌖Reworked "Deomonic Curse"
+        ⌖The demonic curse used to one shot. It should now deal roughly four hearts with initial hit, then another half with explosion, the rest will be done with fire DoT!
+    ⌖Reworked Energy Sniper
+        ⌖Basically you can't shoot through as many walls anymore, only one, Damage was greatly reduced
+    ⌖Reworked Berserker's Blast
+        ⌖This weapon now has an underbarrel mounted Rifle, its only got one bullet! Make it count!
+        ⌖I've also made it a pump-action, it was dominating Subs and AR's at close range, we're reduced the possibility for that to happen!
+    ⌖Reworked Hellfire Blunderbus
+        ⌖This will be the only fire shotgun we have for a while, it's been nerfed, most damage comes from the flames, that's how I've decided to balance the old "demonic" weapons
+    ⌖Reworked Rift-E9
+        ⌖Reduced the ability to one burst (I felt it was just a tad more powerful than I wanted it to be, it should now only one burst if at least one projectile hits the head!)
+        ⌖Also I'd like to mention I changed the particles on all the energy weapons, this one has blue particles when you shoot, for muzzleflash!
+    ⌖Reworked The Redeemer
+        ⌖What else to say? Most of the damage is from the fire DoT, nerfed the magazine size down to 6 from 16```
